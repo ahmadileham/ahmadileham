@@ -17,7 +17,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 🌱 I'm currently learning: **DevOps and CI/CD pipelines**
-- ⚡ Fun fact: **I love playing chess and non-fiction books**
+- ⚡ Fun fact: **I wanna be a jacked nerd**
 
  **<h3 align="center">Skills</h3>**
 
