@@ -1,9 +1,7 @@
-![👋 Hi, I'm Ilham](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=ahmadileham&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
-  <ul align="center" style="list-style: none">
+  <ul align="left" style="list-style: none">
     <summary>
       <h1>
         👋 Hi, I'm Ilham
@@ -12,7 +10,7 @@
   </ul>
 </div>
 
- **<h3 align="left">👨💻 Full-stack developer passionate about building functional and scalable web solutions, blending clean front-end foundations with logical back-end architecture. Continuously refining my eye for design through collaboration and iterative feedback. Eager to explore AI integration and solve real-world challenges in fintech, psychology, and tools that bridge technology with human behavior. Growth-driven, detail-curious, and always learning.</h3>**
+ **<h3 align="left">👨💻Eager to explore AI integration and solve real-world challenges in fintech, psychology, and tools that bridge technology with human behavior.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
